@@ -1,3 +1,7 @@
+<p align="center"> 
+<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/bcfc56a4-b124-4988-88b4-e860cb438f27" width=800>
+
+
 <h1 align="center">🧠 Redes Neurais e Algoritmos Genéticos 🧬 </h1>
 
 <h2 align="center"> 
