@@ -12,7 +12,6 @@
    Monstrinhos 
   &nbsp;&bull;&nbsp; Feras Formidáveis
   &nbsp;&bull;&nbsp; Tarrasque
-  &nbsp;&bull;&nbsp; Tiamat
 </p>
 
 ## 📂 Organização do Repositório
@@ -25,37 +24,34 @@ Este repositório é dividido em duas pastas para cada uma das categorias de ati
 A pasta aborda as seguintes atividades: 
 | Código |  Nome | Área da Disciplina |
 |----------|--------------------------|----------|
-| 3.2 | *“Átomos não são bolinhas e ligações químicas não são pauzinhos” — Prof. Julio* | *Redes Neurais* |
-| 3.3 | *Classes em Python não pagam imposto sobre herança* | *Redes Neurais* |
-| 3.4 | *\_\_dunder\_\_* | *Redes Neurais* |
-| 3.5 | *Forma, função e ativação* | *Redes Neurais* |
-| 3.6 | *A curva de aprendizado* | *Redes Neurais* |
-| 3.7 | *Comparando as performances* | *Algoritmos Genéticos* |
-| 3.8 | *A função de Himmelblau* | *Algoritmos Genéticos* |
+| [3.2](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_2_Caio_Matheus.ipynb) | *“Átomos não são bolinhas e ligações químicas não são pauzinhos” — Prof. Julio* | *Redes Neurais* |
+| [3.3.](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_3_Caio_Matheus.ipynb) | *Classes em Python não pagam imposto sobre herança* | *Redes Neurais* |
+| [3.4](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_4_Caio_Matheus.ipynb) | *\_\_dunder\_\_* | *Redes Neurais* |
+| [3.5](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_5_Caio_Matheus.ipynb) | *Forma, função e ativação* | *Redes Neurais* |
+| [3.6](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_6_Caio_Matheus.ipynb) | *A curva de aprendizado* | *Redes Neurais* |
+| [3.7](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_7_Caio_Matheus.ipynb) | *Comparando as performances* | *Algoritmos Genéticos* |
+| [3.8](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Monstrinhos/Monstrinho_3_8_Caio_Matheus.ipynb) | *A função de Himmelblau* | *Algoritmos Genéticos* |
 
 ### 🐉[Feras Formidáveis](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/tree/main/Feras%20Formid%C3%A1veis)  
 A pasta aborda as seguintes atividades: 
 
 |  Código |  Nome | Área da Disciplina |
 |----------|---------------------------|---------- |
-| 4.1 | *Quem classifica a classe classificadora?* | *Redes Neurais* |
-| 4.2 | *Stop right now, thank you very much* | *Redes Neurais* |
-| 4.3 | *Derrube pra fora* | *Redes Neurais* |
-| 4.6 | *E se meus dados forem imagens?* | *Redes Neurais* |
-| 4.8 | *“… o futuro, assim como o passado, seriam presente diantede seus olhos” — Pierre-Simon de Laplace* | *Redes Neurais* |
-| 4.9 | *A senha de tamanho variável* | *Algoritmos Genéticos* |
-| 4.10 | *O caixeiro que prefere cidades ímpares* | *Algoritmos Genéticos* |
-| 4.11 | *Eles estão se multiplicando!* | *Algoritmos Genéticos* |
-| 4.12 | *Novos palíndromos* | *Algoritmos Genéticos* |
-| 4.13 | *A liga ternária mais cara do mundo* | *Algoritmos Genéticos* |
-| 4.14 | *A liga ternária leve mais cara do mundo* | *Algoritmos Genéticos* |
-| 4.17 | *Regressão simbólica* | *Algoritmos Genéticos* |
+| [4.1](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_1_Caio_Matheus_e_Rafael_Anis.ipynb) | *Quem classifica a classe classificadora?* | *Redes Neurais* |
+| [4.2](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_2_Caio_Matheus_e_Rafael_Anis.ipynb) | *Stop right now, thank you very much* | *Redes Neurais* |
+| [4.3](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_3_Caio_Matheus_e_Raquel_Vianna.ipynb) | *Derrube pra fora* | *Redes Neurais* |
+| [4.6](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_6_Ana_Luz_e_Caio_Matheus.ipynb) | *E se meus dados forem imagens?* | *Redes Neurais* |
+| [4.8](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_8_Caio_Matheus.ipynb) | *“… o futuro, assim como o passado, seriam presente diantede seus olhos” — Pierre-Simon de Laplace* | *Redes Neurais* |
+| [4.9](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_9_Caio_Matheus_e_Rafael_Anis.ipynb) | *A senha de tamanho variável* | *Algoritmos Genéticos* |
+| [4.10](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_10_Caio_Matheus.ipynb) | *O caixeiro que prefere cidades ímpares* | *Algoritmos Genéticos* |
+| [4.11](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_11_Caio_Matheus.ipynb) | *Eles estão se multiplicando!* | *Algoritmos Genéticos* |
+| [4.12](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_12_Caio_Matheus_e_Rafael_Anis.ipynb) | *Novos palíndromos* | *Algoritmos Genéticos* |
+| [4.13](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_13_Caio_Matheus_e_Raquel_Vianna.ipynb) | *A liga ternária mais cara do mundo* | *Algoritmos Genéticos* |
+| [4.14](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_14_Caio_Matheus_e_Raquel_Vianna.ipynb) | *A liga ternária leve mais cara do mundo* | *Algoritmos Genéticos* |
+| [4.17](https://github.com/Caiomld/Redes-Neurais-e-Algoritmos-Geneticos/blob/main/Feras%20Formid%C3%A1veis/Fera_Formid%C3%A1vel_4_17_Caio_Matheus_e_Joana_Molinete.ipynb) | *Regressão simbólica* | *Algoritmos Genéticos* |
 
-### [Tarrasque](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.)
+### 🔥 [Tarrasque](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.)
 Essa atividade possui um GitHub próprio que pode ser acessado clicando [aqui](https://github.com/LuzMendes/Tarrasque-Modelagem-Preditiva-da-Resposta-Dieletrica-de-Perovskitas.).
-
-### [Tiamat] 
-Essa atividade possui um GitHub próprio que pode ser acessado clicando [aqui]().
 
 ---
 ## 🫂 Agradecimentos e Colaboradores
